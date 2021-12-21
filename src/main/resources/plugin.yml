@@ -1,0 +1,9 @@
+name: ContinentSelect
+version: '${project.version}'
+main: me.roolps.continentselect.main
+api-version: 1.18
+commands:
+  continents:
+    description: Contains all the commands for the plugin
+    usage: /continents
+    permission: everyone
